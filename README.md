@@ -50,7 +50,7 @@ These are processed using Java & OpenCV directly on the smartphone app.
 
 - Used for classifying skin lesions as **benign** or **malignant**.
 - SVM is selected over Decision Trees and Naive Bayes due to better performance with continuous features and large datasets.
-- Optimal hyperplane is constructed using the following equations:
+- CHI Square test and correlation among feature have been done.
 ---
 
 ## 📂 Directory Structure
